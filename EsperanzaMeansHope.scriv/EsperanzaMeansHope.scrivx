@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.0.5-9496">
+    <Binder>
+        <BinderItem ID="4" Type="Text" Created="2007-03-25 11:48:19 -0700" Modified="2011-06-14 19:00:39 -0700">
+            <Title>Stage Play US Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Information.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>580,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="0" Type="DraftFolder" Created="2007-05-13 13:54:52 -0700" Modified="2007-05-15 15:21:11 -0700">
+            <Title>Script</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>7</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="3" Type="Text" Created="2007-05-13 13:54:52 -0700" Modified="2011-06-14 18:47:04 -0700">
+                    <Title>Title Page</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>145,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" Type="Text" Created="2007-05-15 12:08:22 -0700" Modified="2011-06-19 17:16:33 -0700">
+                    <Title>Characters</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>198,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" Type="Text" Created="2007-05-15 12:10:59 -0700" Modified="2011-06-19 17:10:28 -0700">
+                    <Title>Setting</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>12,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" Type="Folder" Created="2007-05-15 12:16:25 -0700" Modified="2010-10-29 05:21:20 -0700">
+                    <Title>Act</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="10" Type="Text" Created="2007-05-15 12:18:01 -0700" Modified="2011-06-14 19:04:27 -0700">
+                            <Title>Scene</Title>
+                            <MetaData>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>6,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" Type="Folder" Created="2010-10-27 04:52:02 -0700" Modified="2010-10-27 04:52:05 -0700">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Characters.tif</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="32" Type="Text" Created="2011-06-18 14:29:13 -0700" Modified="2011-06-18 15:36:20 -0700">
+                    <Title>Eperanza</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>377,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="33" Type="Text" Created="2011-06-18 14:30:03 -0700" Modified="2011-06-18 14:31:18 -0700">
+                    <Title>Chris</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>231,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="37" Type="Text" Created="2011-06-19 15:10:11 -0700" Modified="2011-06-19 15:10:28 -0700">
+                    <Title>Melissa</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>326,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" Type="Folder" Created="2010-10-27 04:52:06 -0700" Modified="2010-10-27 04:52:11 -0700">
+            <Title>Settings</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Locations.tif</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2007-05-13 13:54:52 -0700" Modified="2007-05-13 13:54:52 -0700">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="15" Type="PDF" Created="2010-10-29 04:58:54 -0700" Modified="2010-10-29 05:10:03 -0700">
+                    <Title>Sample Script</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="23" Type="PDF" Created="2011-05-15 14:16:29 -0700" Modified="2011-05-15 14:16:29 -0700">
+                    <Title>UnheardVoices</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="35" Type="WebArchive" Created="2011-06-18 16:07:19 -0700" Modified="2011-06-18 16:07:19 -0700">
+                    <Title>Cycle of Domestic Violence</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>http://www.domesticviolence.org/cycle-of-violence/</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="16" Type="Folder" Created="2010-10-27 04:52:39 -0700" Modified="2010-10-27 04:52:41 -0700">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Notes (White).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="38" Type="Text" Created="2011-06-19 16:35:15 -0700" Modified="2011-06-19 17:21:14 -0700">
+                    <Title>This play is about...</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>954,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="34" Type="Text" Created="2011-06-18 16:03:22 -0700" Modified="2011-06-19 17:45:47 -0700">
+                    <Title>Questions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,6045</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="24" Type="Text" Created="2011-06-05 19:51:11 -0700" Modified="2011-06-12 22:50:41 -0700">
+                    <Title>Story time</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7666,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="25" Type="Text" Created="2011-06-05 19:04:46 -0700" Modified="2011-06-14 18:51:32 -0700">
+                    <Title>different_structure_ideas</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>402,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="26" Type="Text" Created="2011-05-26 23:35:45 -0700" Modified="2011-05-26 23:35:45 -0700">
+                    <Title>domestic violence plays</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="27" Type="Text" Created="2011-05-25 19:48:08 -0700" Modified="2011-05-25 19:48:08 -0700">
+                    <Title>more notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="28" Type="Text" Created="2011-05-09 21:48:14 -0700" Modified="2011-05-09 21:48:15 -0700">
+                    <Title>Esperanza Means Hope needs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="30" Type="Text" Created="2011-06-14 19:06:45 -0700" Modified="2011-06-18 16:03:51 -0700">
+                    <Title>Another Idea</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (White).png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1574,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="31" Type="Text" Created="2011-06-14 19:41:21 -0700" Modified="2011-06-15 20:15:11 -0700">
+                    <Title>Treatment #1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>686,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="36" Type="Text" Created="2011-06-18 16:21:27 -0700" Modified="2011-06-19 15:09:03 -0700">
+                    <Title>Dialogue</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>587,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="20" Type="Folder" Created="2010-10-29 05:11:19 -0700" Modified="2010-10-29 05:11:21 -0700">
+            <Title>Templates</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="19" Type="Text" Created="2007-05-15 12:18:01 -0700" Modified="2010-10-29 05:11:07 -0700">
+                    <Title>New Scene</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>18,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2007-05-13 13:54:52 -0700" Modified="2007-05-13 13:54:52 -0700">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="21" Type="Text" Created="2011-05-09 12:43:35 -0700" Modified="2011-05-09 12:43:35 -0700">
+                    <Title>New Scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="22" Type="Text" Created="2011-05-09 12:44:00 -0700" Modified="2011-05-09 12:44:00 -0700">
+                    <Title>New Scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="29" Type="Text" Created="2011-05-09 21:22:33 -0700" Modified="2011-05-09 21:22:34 -0700">
+                    <Title>scene_sketch_050911</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="610FF768-6DDA-4659-8235-140E7BC85693" Color="0.843 0.867 0.898">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="8FB6F83F-AB1D-47AF-94B0-F5102FBDF9AA" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="2" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-05-09 12:42:15 -0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetDaily="No" DeterminedFromDeadline="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2011-06-20 13:02:13 -0700"></PreviousSession>
+    </ProjectTargets>
+    <TemplateFolderID>20</TemplateFolderID>
+    <AutoCompleteList>
+        <Completion>Esperanza</Completion>
+        <Completion>Toby</Completion>
+        <Completion>Melissa</Completion>
+        <Completion>Chris</Completion>
+    </AutoCompleteList>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
